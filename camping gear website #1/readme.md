@@ -1,0 +1,2 @@
+ #readme
+ I've demonstrated the process of building a basic, adaptable website utilizing HTML and CSS. This site encompasses crucial segments such as Home, Services, Portfolio, About Us, Contact Us, and the Footer. It zeroes in on outdoor camping equipment and accentuates providers of indispensable gear.
